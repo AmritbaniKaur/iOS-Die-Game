@@ -1,7 +1,5 @@
 # Develop an iOS Dice Game application
 
-========================================================================
-
 Add outlets and actions connected to your screen and view controller
 
 Game score and round # must be updated and displayed after each play
@@ -36,5 +34,5 @@ Apply Auto Layout
 
 Must be shown in different screen size (X or SE)
 
-========================================================================
+----------------------------------------------------------------------------------
 
